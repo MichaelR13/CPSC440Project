@@ -1,0 +1,8 @@
+List of required parts for project
+- Any PI Model
+- A Passive infared sensor
+- A piezo buzzer
+- A single resistor
+- Wires+
+- A breadboard (possibly optional)
+- Other stuff
