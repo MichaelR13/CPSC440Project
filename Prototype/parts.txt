@@ -1,8 +1,29 @@
-List of required parts for project
-- Any PI Model
-- A Passive infared sensor
-- A piezo buzzer
-- A single resistor
-- Wires+
-- A breadboard (possibly optional)
-- Other stuff
+List of Used parts for project
+- AML-S905X-CC (Le Potato)
+    o Amlogic S905X SoC
+    o 4 ARM Cortex-A53 @ 1.512GHz
+    o 2G + 3P ARM Mali-450 @ 750MHz
+    o Amlogic Video Engine 10
+    o Up to 2GB DDR3 SDRAM
+    o 4 USB 2.0 Type A
+    o 100mb Ethernet
+    o 3.5mm TRRS AV Jack
+    o HDMI 2.0
+    o MicroUSB Power In
+    o MicroSD Card Slot
+    o eMMC Interface
+    o IR Receiver
+    o U-Boot Button
+    o 40 Pin Low Speed Header (PWM, I2C, SPI, GPIO)
+    o Audio Headers (I2S, ADC, SPDIF)
+    o UART Header
+- [MICROSD CARD]
+    o [INSERT SPECS HERE]
+- Adafruit PIR Motion Sensor
+    o
+- 3-24V Electronic Buzzer Alarm Sounder
+    o
+- 100 ohm resistor
+    o 1/2 watt
+    o tolerance metal film
+- Soldering Kit 
