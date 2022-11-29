@@ -17,13 +17,12 @@ List of Used parts for project
     o 40 Pin Low Speed Header (PWM, I2C, SPI, GPIO)
     o Audio Headers (I2S, ADC, SPDIF)
     o UART Header
-- [MICROSD CARD]
-    o [INSERT SPECS HERE]
+- 32 GB SanDisk MicroSD
 - Adafruit PIR Motion Sensor
-    o
 - 3-24V Electronic Buzzer Alarm Sounder
-    o
-- 100 ohm resistor
+- 100 ohm resistor [NOT USED]
     o 1/2 watt
     o tolerance metal film
-- Soldering Kit 
+- Breadboard
+- Soldering Kit
+- Wire Strippers 
