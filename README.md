@@ -1,4 +1,4 @@
-# CPSC440Project
+# CPSC440Project, Mini Security Alarm
 
 
 # Project By :
